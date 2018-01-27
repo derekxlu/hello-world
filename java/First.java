@@ -1,2 +1,4 @@
 class First {
+    public First(){
+    }
 }
